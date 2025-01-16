@@ -9,7 +9,7 @@
     https://github.com/ronaldoexcellent/quiz-app-with-react
 
 ### Hosted On (Vercel):
-    https://quizappwithreact.vercel.app
+    https://quizwithreact.vercel.app
     
 
 ## My Contact
